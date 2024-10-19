@@ -1,9 +1,8 @@
 ### Olá, me chamo Gabriel de Lucca, e seja bem-vindo ao meu perfil! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaugustolucca/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrieldelucca03@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.lucca03/)
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(19)99232-2769)
+
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellucca28&show_icons=true&theme=tokyonight)
 
