@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaugustolucca/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.lucca03/)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, no Centro Universitário Einstein de Limeira. 
 
-📕 Focado em me aperfeiçoar em desenvolvimento front-end
+📕 Focado em desenvolvimento front-end
 
 📱 Meu contato: +55 (19) 99232-2769
 
