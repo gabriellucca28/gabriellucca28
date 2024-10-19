@@ -13,7 +13,7 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellucca28&show_icons=true&theme=tokyonight)
 
-### Tecnologias que utilizo no dia-dia:
+### Tecnologias que eu utilizo no dia-dia:
 
 <div style= "display: inline_block">
 <img alt = "html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
