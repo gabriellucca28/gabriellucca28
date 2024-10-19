@@ -5,7 +5,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, no Centro Universitário Einstein de Limeira. 
 
-📕 Focado em desenvolvimento front-end
+📕 Focado em desenvolvimento front-end.
 
 📱 Meu contato: +55 (19) 99232-2769
 
